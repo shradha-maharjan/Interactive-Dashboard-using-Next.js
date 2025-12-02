@@ -2,11 +2,6 @@
 
 A Next.js web application for visualizing WiFi experiment data from ns-3 simulations, compiled as a static site for GitHub Pages deployment.
 
-## 🌐 Live Demo
-
-**[View Live Application](https://uno-networks-lab.github.io/lab-project/)**
-
-The application is automatically deployed to GitHub Pages whenever changes are pushed to the `frontend/` folder on the main branch.
 
 ## 📊 Features
 
