@@ -1,0 +1,12 @@
+{
+  "timestamp": "2025-08-18T23:28:01.437674",
+  "experiment_name": "wifi_manager_performance",
+  "executable": "ns3-dev-wifi-manager-example-debug",
+  "executed_experiments": 9,
+  "total_available_experiments": 9,
+  "successful": 8,
+  "failed": 1,
+  "success_rate": 0.8888888888888888,
+  "results_directory": "wifi_general_results",
+  "configuration_file": "templates/wifi_general_config.yml"
+}

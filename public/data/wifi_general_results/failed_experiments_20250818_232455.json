@@ -1,0 +1,12 @@
+[
+  {
+    "name": "manager_ConstantRate",
+    "args": {
+      "manager": "ConstantRate"
+    },
+    "index": 1,
+    "failure_reason": "non_zero_exit",
+    "stderr": "msg=\"Could not connect callback to /NodeList/0/DeviceList/*/$ns3::WifiNetDevice/RemoteStationManager/$ns3::ConstantRateWifiManager/Rate\", +0.000000000s -1 file=/Users/tiffanyzhang/ns3-uno/src/core/model/config.cc, line=951\nNS_FATAL, terminating\nlibc++abi: terminating\n",
+    "returncode": -6
+  }
+]

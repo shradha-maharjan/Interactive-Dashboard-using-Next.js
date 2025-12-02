@@ -1,0 +1,17 @@
+experiment:
+  description: Retry failed experiments from 20250818_232455
+  name: wifi_manager_performance_retry
+  timeout: 300
+fixed_arguments:
+- --maxRetryCount=8
+ns3:
+  executable: ns3-dev-wifi-manager-example-debug
+  path: /Users/tiffanyzhang/ns3-uno/build/src/wifi/examples
+output:
+  base_directory: wifi_general_results_retry_20250818_232455
+  directory_structure: hierarchical
+parameters:
+  manager:
+    format: --wifiManager={value}
+    values:
+    - ConstantRate

@@ -1,0 +1,6 @@
+{
+ "simulator_name" : "ns-3",
+ "model_name" : "--wifiManager=ConstantRate",
+ "capture_date" : "Mon Aug 18 23:24:55 2025",
+ "command_line_arguments" : "[argv empty or not available]",
+ "events" : [

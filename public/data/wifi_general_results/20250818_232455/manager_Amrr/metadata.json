@@ -1,0 +1,14 @@
+{
+  "timestamp": "2025-08-18T23:27:10.440840",
+  "execution_time_seconds": 20.611587047576904,
+  "return_code": 0,
+  "command": [
+    "/Users/tiffanyzhang/ns3-uno/build/src/wifi/examples/ns3-dev-wifi-manager-example-debug",
+    "--wifiManager=Amrr",
+    "--maxRetryCount=8"
+  ],
+  "experiment_name": "manager_Amrr",
+  "parameters": {
+    "manager": "Amrr"
+  }
+}

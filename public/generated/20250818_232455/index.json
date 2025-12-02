@@ -1,0 +1,32 @@
+{
+  "ok": true,
+  "managers": {
+    "manager_Aarf": [
+      "wifi-manager-example-Aarf-802.11a.csv"
+    ],
+    "manager_Amrr": [
+      "wifi-manager-example-Amrr-802.11a.csv"
+    ],
+    "manager_Arf": [
+      "wifi-manager-example-Arf-802.11a.csv"
+    ],
+    "manager_ConstantRate": [
+      "wifi-manager-example-ConstantRate-802.11a.csv"
+    ],
+    "manager_Ideal": [
+      "wifi-manager-example-Ideal-802.11a.csv"
+    ],
+    "manager_Minstrel": [
+      "wifi-manager-example-Minstrel-802.11a.csv"
+    ],
+    "manager_MinstrelHt": [
+      "wifi-manager-example-MinstrelHt-802.11a.csv"
+    ],
+    "manager_Onoe": [
+      "wifi-manager-example-Onoe-802.11a.csv"
+    ],
+    "manager_Rraa": [
+      "wifi-manager-example-Rraa-802.11a.csv"
+    ]
+  }
+}

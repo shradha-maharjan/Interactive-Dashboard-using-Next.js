@@ -1,0 +1,45 @@
+{
+  "experiments": [
+    {
+      "name": "wifi_general_results",
+      "managers": [
+        {
+          "name": "20250818_232455",
+          "csvs": [
+            "wifi_general_results/20250818_232455/manager_Aarf/stderr.txt",
+            "wifi_general_results/20250818_232455/manager_Aarf/stdout.txt",
+            "wifi_general_results/20250818_232455/manager_Aarf/wifi-manager-example-Aarf-802.11a.csv",
+            "wifi_general_results/20250818_232455/manager_Amrr/stderr.txt",
+            "wifi_general_results/20250818_232455/manager_Amrr/stdout.txt",
+            "wifi_general_results/20250818_232455/manager_Amrr/wifi-manager-example-Amrr-802.11a.csv",
+            "wifi_general_results/20250818_232455/manager_Arf/stderr.txt",
+            "wifi_general_results/20250818_232455/manager_Arf/stdout.txt",
+            "wifi_general_results/20250818_232455/manager_Arf/wifi-manager-example-Arf-802.11a.csv",
+            "wifi_general_results/20250818_232455/manager_ConstantRate/stderr.txt",
+            "wifi_general_results/20250818_232455/manager_ConstantRate/stdout.txt",
+            "wifi_general_results/20250818_232455/manager_ConstantRate/wifi-manager-example-ConstantRate-802.11a.csv",
+            "wifi_general_results/20250818_232455/manager_Ideal/stderr.txt",
+            "wifi_general_results/20250818_232455/manager_Ideal/stdout.txt",
+            "wifi_general_results/20250818_232455/manager_Ideal/wifi-manager-example-Ideal-802.11a.csv",
+            "wifi_general_results/20250818_232455/manager_Minstrel/minstrel-stats-00-00-00-00-00-01.txt",
+            "wifi_general_results/20250818_232455/manager_Minstrel/minstrel-stats-00_00_00_00_00_01.txt",
+            "wifi_general_results/20250818_232455/manager_Minstrel/stderr.txt",
+            "wifi_general_results/20250818_232455/manager_Minstrel/stdout.txt",
+            "wifi_general_results/20250818_232455/manager_Minstrel/wifi-manager-example-Minstrel-802.11a.csv",
+            "wifi_general_results/20250818_232455/manager_MinstrelHt/minstrel-stats-00-00-00-00-00-01.txt",
+            "wifi_general_results/20250818_232455/manager_MinstrelHt/minstrel-stats-00_00_00_00_00_01.txt",
+            "wifi_general_results/20250818_232455/manager_MinstrelHt/stderr.txt",
+            "wifi_general_results/20250818_232455/manager_MinstrelHt/stdout.txt",
+            "wifi_general_results/20250818_232455/manager_MinstrelHt/wifi-manager-example-MinstrelHt-802.11a.csv",
+            "wifi_general_results/20250818_232455/manager_Onoe/stderr.txt",
+            "wifi_general_results/20250818_232455/manager_Onoe/stdout.txt",
+            "wifi_general_results/20250818_232455/manager_Onoe/wifi-manager-example-Onoe-802.11a.csv",
+            "wifi_general_results/20250818_232455/manager_Rraa/stderr.txt",
+            "wifi_general_results/20250818_232455/manager_Rraa/stdout.txt",
+            "wifi_general_results/20250818_232455/manager_Rraa/wifi-manager-example-Rraa-802.11a.csv"
+          ]
+        }
+      ]
+    }
+  ]
+}

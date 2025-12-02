@@ -1,0 +1,14 @@
+{
+  "timestamp": "2025-08-18T23:26:36.165121",
+  "execution_time_seconds": 22.580125093460083,
+  "return_code": 0,
+  "command": [
+    "/Users/tiffanyzhang/ns3-uno/build/src/wifi/examples/ns3-dev-wifi-manager-example-debug",
+    "--wifiManager=Rraa",
+    "--maxRetryCount=8"
+  ],
+  "experiment_name": "manager_Rraa",
+  "parameters": {
+    "manager": "Rraa"
+  }
+}

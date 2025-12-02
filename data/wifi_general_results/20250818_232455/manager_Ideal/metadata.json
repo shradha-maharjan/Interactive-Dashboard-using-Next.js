@@ -1,0 +1,14 @@
+{
+  "timestamp": "2025-08-18T23:25:20.428502",
+  "execution_time_seconds": 23.943100929260254,
+  "return_code": 0,
+  "command": [
+    "/Users/tiffanyzhang/ns3-uno/build/src/wifi/examples/ns3-dev-wifi-manager-example-debug",
+    "--wifiManager=Ideal",
+    "--maxRetryCount=8"
+  ],
+  "experiment_name": "manager_Ideal",
+  "parameters": {
+    "manager": "Ideal"
+  }
+}

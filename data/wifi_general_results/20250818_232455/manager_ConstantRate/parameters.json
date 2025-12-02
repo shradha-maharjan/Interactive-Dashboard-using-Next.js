@@ -1,0 +1,7 @@
+{
+  "name": "manager_ConstantRate",
+  "args": {
+    "manager": "ConstantRate"
+  },
+  "index": 1
+}

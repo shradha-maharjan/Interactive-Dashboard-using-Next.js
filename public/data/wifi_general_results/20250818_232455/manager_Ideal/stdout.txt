@@ -1,0 +1,8 @@
+
+This program demonstrates and plots the operation of different 
+Wi-Fi rate controls on different station configurations,
+by stepping down the received signal strength across a wide range
+and observing the adjustment of the rate.
+Run 'wifi-manager-example --PrintHelp' to show program options.
+
+Testing 802.11a with Ideal ...
